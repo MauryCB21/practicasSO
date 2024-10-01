@@ -1,0 +1,4 @@
+Nombre: mauricio clemente
+Edad: 21
+Carrera: informatica
+Matrícula: 10056428
